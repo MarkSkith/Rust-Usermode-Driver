@@ -1,0 +1,5 @@
+\\nasbox\Cryo\Visual Studio\New Driver Stuff\PP\Driver\Builds\Debug\Driver.dll
+\\nasbox\Cryo\Visual Studio\New Driver Stuff\PP\Driver\Builds\Debug\Driver.pdb
+\\nasbox\Cryo\Visual Studio\New Driver Stuff\PP\Driver\obj\Debug\Driver.csprojAssemblyReference.cache
+\\nasbox\Cryo\Visual Studio\New Driver Stuff\PP\Driver\obj\Debug\Driver.dll
+\\nasbox\Cryo\Visual Studio\New Driver Stuff\PP\Driver\obj\Debug\Driver.pdb
